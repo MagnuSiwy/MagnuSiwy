@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=RobotoMono&size=35&duration=3500&pause=500&color=17975A&center=true&width=435&height=60&lines=Hello+there..)](https://git.io/typing-svg)
 
 <!--
 **MagnuSiwy/MagnuSiwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
