@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MagnuSiwy&theme=github_dark)
+![Commits](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MagnuSiwy&theme=github_dark)
+
+![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MagnuSiwy&theme=github_dark)
