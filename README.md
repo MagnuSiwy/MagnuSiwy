@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## $\color{#17975A}\textbf{About me}$
+I am a Computer Science graduate from Poznań University of Technology. Throughout my studies, I have worked on numerous exciting projects. My favorite programming languages are Python and C++ - Python for its versatility and C++ for its low-level capabilities.
+
+##
+
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MagnuSiwy&theme=github_dark)
 ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MagnuSiwy&theme=github_dark)
 
